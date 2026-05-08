@@ -138,7 +138,7 @@ UIIC-CrossSelling-Analysis/
 ## 👨‍💻 Author
 **Deepak Malviya**  
 📧 Email: Deepakmalviya7604@gmail.com  
-💼 LinkedIn: linkedin.com/in/deepak102825
+💼 LinkedIn: https://www.linkedin.com/in/deepak102825/
 
 ---
 
