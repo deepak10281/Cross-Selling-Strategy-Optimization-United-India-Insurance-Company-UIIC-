@@ -1,5 +1,5 @@
 # Cross-Selling Strategy Optimization — United India Insurance Company (UIIC)
-### A Rule-Based, No-ML Analytics Approach
+
 
 ## 📌 Project Overview
 
